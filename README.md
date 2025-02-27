@@ -16,7 +16,7 @@ Our model takes patient health parameters as input and predicts diabetes risk wi
 🔹 **Jupyter Notebook** 📓  
 
 ## 📂 Dataset  
-We used the **Pima Indians Diabetes Dataset** 🏥 from Kaggle/UCI, containing medical records like:  
+We used the **JohnDaSilva's Diabetes Dataset** 🏥 from Kaggle/UCI, containing medical records like:  
 ✔️ Glucose Level  
 ✔️ Blood Pressure  
 ✔️ BMI  
