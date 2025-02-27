@@ -39,8 +39,8 @@ We trained multiple models and compared their performance:
 ## 🔥 How to Run the Project?  
 1️⃣ Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/diabetes-classification-ml.git
-   cd diabetes-classification-ml
+   git clone https://github.com/NavinS2005/diabetes_classification_machine_learning.git
+   cd diabetes_classification_machine_learning
    ```  
 2️⃣ Install dependencies:  
    ```bash
